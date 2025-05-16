@@ -1,0 +1,6 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELOWORD.
+       ENVIRONMENT DIVISION.
+       PROCEDURE DIVISION.
+           DISPLAY 'HELLO impact build testing'.
+           STOP RUN.
